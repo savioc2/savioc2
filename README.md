@@ -2,7 +2,7 @@
 
 
 - :computer:  Software Engineering
-- :seedling:  Studying Java e Python
+- :seedling:  Studying Java and Python
 - :zap:  Internship at Dataprev
 - :bearded_person: Pronouns: Ele/Dele
 
