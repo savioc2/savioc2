@@ -2,8 +2,8 @@
 
 
 - :computer:  Software Engineering
-- :seedling:  Studying Java and Python
-- :zap:  Internship at Dataprev
+- :seedling:  Studying Java 
+- :zap:  Internship at Supremo Tribunal Federal 
 - :bearded_person: Pronouns: Ele/Dele
 
 ##
