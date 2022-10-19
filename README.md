@@ -41,6 +41,11 @@
       </div>
 
 
- 
+ <!--Snake animation-->
+<div align="center">
+
+ ![Snake animation](https://github.com/savioc2/savioc2/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
