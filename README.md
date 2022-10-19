@@ -43,7 +43,7 @@
 <!--Snake animation-->
 <div align="center">
  
-![Snake animation dark mode](https://raw.githubusercontent.com/savioc2/savioc2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation dark mode](https://raw.githubusercontent.com/savioc2/savioc2/output/github-contribution-grid-snake-dark.svg)
   
 </div>
  
