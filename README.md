@@ -2,7 +2,7 @@
 
 
 - :computer:  Software Engineering
-- :zap:  Internship at Supremo Tribunal Federal 
+- :zap:  TGV Tecnologia
 - :bearded_person: Pronouns: Ele/Dele
 
 ##
