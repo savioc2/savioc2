@@ -2,7 +2,7 @@
 
 
 - :computer:  Software Engineering
-- :zap:  TGV Tecnologia
+- :zap:  Rede São Roque
 - :bearded_person: Pronouns: Ele/Dele
 
 ##
