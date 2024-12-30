@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Sávio Cunha.
 
 
-- :computer:  Software Engineering
+- :computer:  Software Engineer
 - :zap:  Rede São Roque
 - :bearded_person: Pronouns: Ele/Dele
 
